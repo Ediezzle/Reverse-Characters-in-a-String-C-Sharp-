@@ -1,0 +1,11 @@
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\obj\Debug\netcoreapp3.1\ReverseCharactersInString.csprojAssemblyReference.cache
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\obj\Debug\netcoreapp3.1\ReverseCharactersInString.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\obj\Debug\netcoreapp3.1\ReverseCharactersInString.AssemblyInfo.cs
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\bin\Debug\netcoreapp3.1\ReverseCharactersInString.exe
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\bin\Debug\netcoreapp3.1\ReverseCharactersInString.deps.json
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\bin\Debug\netcoreapp3.1\ReverseCharactersInString.runtimeconfig.json
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\bin\Debug\netcoreapp3.1\ReverseCharactersInString.runtimeconfig.dev.json
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\bin\Debug\netcoreapp3.1\ReverseCharactersInString.dll
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\bin\Debug\netcoreapp3.1\ReverseCharactersInString.pdb
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\obj\Debug\netcoreapp3.1\ReverseCharactersInString.dll
+C:\Users\Dev Ops\source\repos\ReverseCharactersInString\ReverseCharactersInString\obj\Debug\netcoreapp3.1\ReverseCharactersInString.pdb
